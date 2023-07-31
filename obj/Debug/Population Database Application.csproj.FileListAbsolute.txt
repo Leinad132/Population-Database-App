@@ -1,0 +1,13 @@
+C:\Users\mikel\source\repos\Population Database Application\bin\Debug\PopulationDB.mdf
+C:\Users\mikel\source\repos\Population Database Application\bin\Debug\PopulationDB_log.ldf
+C:\Users\mikel\source\repos\Population Database Application\bin\Debug\Population Database Application.exe.config
+C:\Users\mikel\source\repos\Population Database Application\bin\Debug\Population Database Application.exe
+C:\Users\mikel\source\repos\Population Database Application\bin\Debug\Population Database Application.pdb
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population Database Application.csproj.AssemblyReference.cache
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population Database Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population_Database_Application.Form1.resources
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population_Database_Application.Properties.Resources.resources
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population Database Application.csproj.GenerateResource.cache
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population Database Application.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population Database Application.exe
+C:\Users\mikel\source\repos\Population Database Application\obj\Debug\Population Database Application.pdb
